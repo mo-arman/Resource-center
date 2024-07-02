@@ -1,0 +1,22 @@
+body{
+    background-color: #009FBD;
+    
+}
+h1{
+    text-decoration: underline;
+    color: #010101;
+}
+p{
+    font-size: 25px;
+    font-family: monospace;
+}
+.image{
+    position: relative;
+    bottom: 55px;
+    left: 2%;
+    border-radius: 6px;
+}
+.img{
+ position: relative;
+ left: 20%;
+}
